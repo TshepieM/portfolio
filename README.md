@@ -61,11 +61,11 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>📍</td>
-      <td>Gauteng, Centurion</td>
+      <td>Centurion, Gauteng</td>
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="Tshepisho Mphahlele Resume.docx">Download my Resume</a></td>
     </tr>
     <tr>
       <td>🌐</td>
