@@ -1,7 +1,14 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Anietie Etuk 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+👋 Hi! I'm Tshepisho Mphahlele, an Applied Mathematics graduate with a passion for using data to solve real-world problems. I recently completed a Full Stack Development certificate at the FNB App Academy, where I worked on team-based coding projects and built web apps from the ground up.
+
+I'm currently diving deeper into data science — exploring machine learning, data storytelling, and research-driven projects that matter. Whether it's visualizing youth unemployment stats, modeling systems with Lie symmetries, or building dashboards, I'm always learning and experimenting.
+
+### SKILLS & TOOLS
+- **Languages**: Python, JavaScript, HTML, CSS, MATLAB
+- **Tools**: Jupyter, Git, GitHub, VS Code, Flask, Streamlit
+- **Interests**: Data Science • Research • Social Impact • Education • Web Dev
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
