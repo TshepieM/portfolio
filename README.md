@@ -11,18 +11,6 @@ I'm currently diving deeper into data science — exploring machine learning, da
 - **Interests**: Data Science • Research • Social Impact • Education • Web Dev
 
 
-<!--Mention your top/relevant skills here - core and soft skills-->
-## WHAT I DO
-
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
-
-**- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
-
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
-
-
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
 
@@ -76,7 +64,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/in/tshepisho-mphahlele-1a28a7354/">See what I get up to on LinkedIn</a></td>
     </tr>
   </tbody>
 </table>
