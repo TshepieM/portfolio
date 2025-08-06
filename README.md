@@ -3,12 +3,14 @@
 
 👋 Hi! I'm Tshepisho Mphahlele, an Applied Mathematics graduate with a passion for using data to solve real-world problems. I recently completed a Full Stack Development certificate at the FNB App Academy, where I worked on team-based coding projects and built web apps from the ground up.
 
-I'm currently diving deeper into data science — exploring machine learning, data storytelling, and research-driven projects that matter. Whether it's visualizing youth unemployment stats, modeling systems with Lie symmetries, or building dashboards, I'm always learning and experimenting.
+I'm currently diving deeper into data science — exploring machine learning, data storytelling, and research-driven projects that matter. Whether it's visualizing youth unemployment stats, modeling systems with Lie symmetries, or building dashboards, I'm always learning and experimenting. 
+
+💡 **I believe in learning by doing**, and my GitHub is where I share what I’m learning and creating.
 
 ### SKILLS & TOOLS
 - **Languages**: Python, JavaScript, HTML, CSS, MATLAB
 - **Tools**: Jupyter, Git, GitHub, VS Code, Flask, Streamlit
-- **Interests**: Data Science • Research • Social Impact • Education • Web Dev
+- **Interests**: Data Science • Research • Problem solving • Web Dev
 
 
 <!--Section 2: List 3-4 key projects-->
@@ -16,29 +18,26 @@ I'm currently diving deeper into data science — exploring machine learning, da
 
 *A glimpse of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](1 anietie etuk data analytics car project.jpeg)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+## 📌 Featured Projects
+
+### 🐾 [Pine City Zoo Web App](https://github.com/TshepieM/pinecity)
+A responsive website showcasing a fictional zoo, built with HTML, CSS, and JavaScript.  
+Features include an animal gallery, ticket booking simulation, and interactive navigation.
+
+### 🦸 [Avengers Website](https://github.com/TshepieM/websites)
+A superhero-themed site dedicated to the Avengers universe.  
+Built with HTML, CSS, and JavaScript, featuring character profiles, movie timelines, and interactive UI elements.
+
+---
 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+### 📊 Data Science & Research Projects
+- **Youth Unemployment Analysis** – Python & Pandas exploration of StatsSA data with data storytelling and visualizations.  
+- **Lie Symmetry Solver** – Python & SymPy project inspired by my Honours research, solving nonlinear differential equations.  
+- **Student Grade Prediction** – Intro machine learning regression model predicting academic performance.
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
-![image](2 anietie etuk data analytics sales project.jpg)
-
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
-
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-
-![image](3 anietie etuk data analytics agro project.jpg)
-
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
-
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 
 
 ## CONTACT DETAILS
