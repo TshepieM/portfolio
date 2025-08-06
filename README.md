@@ -29,7 +29,6 @@ Features include an animal gallery, ticket booking simulation, and interactive n
 A superhero-themed site dedicated to the Avengers universe.  
 Built with HTML, CSS, and JavaScript, featuring character profiles, movie timelines, and interactive UI elements.
 
----
 
 
 ### 📊 Data Science & Research Projects
