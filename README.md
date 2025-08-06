@@ -19,8 +19,6 @@ I'm currently diving deeper into data science — exploring machine learning, da
 *A glimpse of some of the projects I've been working on.*
 
 
-### 📌 Featured Projects
-
 ### 🐾 [Pine City Zoo Web App](https://github.com/TshepieM/pinecity)
 A responsive website showcasing a fictional zoo, built with HTML, CSS, and JavaScript.  
 Features include an animal gallery, ticket booking simulation, and interactive navigation.
